@@ -7,6 +7,9 @@
 - MongoDB
 - Material-UI
 
+## Live URL
+https://apache-search.netlify.app/
+
 ## Instructions to run locally
 ```
 git clone https://github.com/ahmedrzakhan/Apache-Search.git
